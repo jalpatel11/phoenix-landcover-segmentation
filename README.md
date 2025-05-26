@@ -89,4 +89,7 @@ The entire project is contained in a single Jupyter Notebook:
 pip install -r requirements.txt
 ```
 
+📄 For a detailed summary, check out the full project report: [report.pdf](./report.pdf)
+
+
 
