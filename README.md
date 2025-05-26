@@ -25,15 +25,15 @@ This project performs **land use and land cover (LULC) segmentation** on satelli
 ### 🔶 Labels
 - **Source**: Google Dynamic World V1
 - **Classes (9 total)**:
-  0. Water  
-  1. Trees  
-  2. Grass  
-  3. Flooded Vegetation  
-  4. Crops  
-  5. Shrub & Scrub  
-  6. Built Area  
-  7. Bare Ground  
-  8. Snow & Ice
+  1. Water  
+  2. Trees  
+  3. Grass  
+  4. Flooded Vegetation  
+  5. Crops  
+  6. Shrub & Scrub  
+  7. Built Area  
+  8. Bare Ground  
+  9. Snow & Ice
 
 - **Label Type**: Mode composite (most frequent class from 2022–2025)
 
