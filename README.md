@@ -84,6 +84,9 @@ A custom **U-Net** model built using TensorFlow and Keras:
 ## 🧪 How to Run
 
 The entire project is contained in a single Jupyter Notebook:
-
-```bash
 📄 main.ipynb
+```bash
+pip install -r requirements.txt
+```
+
+
