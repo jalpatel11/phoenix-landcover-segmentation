@@ -97,7 +97,7 @@ git clone https://github.com/jalpatel11/phoenix-landcover-segmentation.git
 cd phoenix-landcover-segmentation
 ```
 
-### 2. (Optional) Create a Virtual Environment
+### 2. Create a Virtual Environment
 
 ```bash
 python -m venv venv
